@@ -19,11 +19,8 @@ let see an example
 
 Input text
 
-<img width="557" alt="image" src="https://user-images.githubusercontent.com/75522377/233283482-c85366e8-e74f-4f8a-9316-d10119f967b5.png">
-
+<img width="795" alt="image" src="https://user-images.githubusercontent.com/75522377/233284961-645b97d1-e6aa-47ae-8932-9ba250287923.png">
 
 Output text :
 
-<img width="558" alt="image" src="https://user-images.githubusercontent.com/75522377/233283860-26efef28-7709-4401-bf7a-ecb4377d47d9.png">
-
-
+<img width="810" alt="image" src="https://user-images.githubusercontent.com/75522377/233285078-d5abb2d2-0468-48f0-98ce-14b6a1d47ef8.png">

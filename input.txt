@@ -1,0 +1,3 @@
+This process allows patients to link their health records across different healthcare providers and systems using DIRECT authentication mode as an identifier. It also ensures that patients have control over who can access their health information by requiring explicit consent and authentication before any linking can occur.
+
+DIRECT authentication mode provides a secure and efficient way for healthcare providers and systems to exchange health information without compromising patient privacy or security. It also helps to ensure that patients have control over who can access their health information by requiring explicit consent and authentication before any sharing can occur.

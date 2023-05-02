@@ -23,4 +23,4 @@ Input text
 
 Output text :
 
-<img width="810" alt="image" src="https://user-images.githubusercontent.com/75522377/233285078-d5abb2d2-0468-48f0-98ce-14b6a1d47ef8.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/75522377/235736132-23340322-40de-4a5e-83d7-ba083c37ecbb.png">

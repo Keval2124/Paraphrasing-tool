@@ -13,14 +13,14 @@ The project makes use of three data packages from the nltk library:
 
   3) Averaged Perceptron Tagger: A pre-trained part-of-speech tagger that assigns a grammatical category (such as noun, verb, adjective, etc.) to each word in a text. Part-of-speech tagging is often used in natural language processing tasks such as text classification or sentiment analysis.
 
-## For grammer correction we be using gingerit
+## For Grammer correction we be using Gingerit
 
 Gingerit is a Python library that facilitates natural language processing tasks such as correcting spelling and grammar errors. It serves as an API wrapper for utilizing grammatical services provided by gingersoftware.com. With Gingerit, users can easily access and use the Ginger correction tool, which offers suggestions for correcting text written in English, Spanish, French, German, Italian, and Portuguese.
 
 Please note that there may be times when the paraphrasing is inaccurate, so it’s important to double-check the output against the input text.
 
 
-let see an example
+## Let see an example
 
 Input text
 
